@@ -1,0 +1,50 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+#input-el{
+    border: 2px solid #008000;
+    padding: 10px 20px;
+    width: 500px;
+    border-radius: 3px;
+}
+#save{
+    background-color: #008000;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 12px;
+    padding: 10px 30px;
+}
+#save-tab{
+    background-color: #008000;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 12px;
+    padding: 10px 30px;
+}
+#delete{
+    background-color: #ffffff;
+    color: #008000;
+    border: 2px solid #008000;
+    border-radius: 3px;
+    margin-top: 12px;
+    padding: 8px 30px;
+}
+#ul-el{
+    /* text-align: center; */
+    justify-content: center;
+}
+
+#ul-el li{
+    list-style: none;
+    /* color: green; */
+}
+
+#ul-el li a{
+    color: #008000;
+}
